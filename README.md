@@ -2,5 +2,5 @@
 Приложение - опросник   
   
 # Screenshots:          
-![alt text](img1.png "Screenshot1")    
-![alt text](img2.png "Screenshot2")    
+![alt text](screenshots/img1.png "Screenshot1")    
+![alt text](screenshots/img2.png "Screenshot2")    
